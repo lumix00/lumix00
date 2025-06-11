@@ -16,7 +16,7 @@ Feel free to check out my projects and reach out if you'd like to collaborate!
 *   🖥️  See my portfolio at [GitHub](http://github.com/lumix00?tab=repositories)
 *   ✉️  You can contact me at [lucasnascimento1010@hotmail.com](mailto:lucasnascimento1010@hotmail.com)
 *   🚀  I'm currently working on [Flytag Mobile](http://github.com/lumix00/FlyTag-Mobile)
-*   🧠  I'm learning React and React Native### Skills 
+*   🧠  I'm learning React and React Native Skills 
 
 
 <p align="left">

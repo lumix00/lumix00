@@ -19,7 +19,8 @@ Feel free to explore my projects or reach out if you'd like to connect or collab
 *   🖥️  See my portfolio at [GitHub](http://github.com/lumix00?tab=repositories)
 *   ✉️  You can contact me at [lucasnascimento1010@hotmail.com](mailto:lucasnascimento1010@hotmail.com)
 *   🚀  I'm currently working on American Travel Internal Software
-*   🧠  I'm learning React and React Native Skills 
+*   🧠  I'm learning React and React Native Skills
+*   https://www.linkedin.com/in/lucas-n-silva-/ 
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
